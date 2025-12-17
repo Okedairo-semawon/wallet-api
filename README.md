@@ -50,7 +50,7 @@ The API will run at: `http://localhost:5000`
 
 A Postman collection is included for easy testing:
 
-* File: `WalletAPI.postman_collection.json`
+* File: `NovaCrust.postman_collection.json`
 
 
 ### Import Steps
