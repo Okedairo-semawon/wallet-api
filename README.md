@@ -26,7 +26,7 @@ All monetary operations are in **USD**.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Okedairo-semawon/wallet-api.git
 cd wallet-api
 ```
 
@@ -50,7 +50,7 @@ The API will run at: `http://localhost:5000`
 
 A Postman collection is included for easy testing:
 
-* File: `NovaCrust.postman_collection.json`
+* File: `postman/NovaCrust.postman_collection.json`
 
 
 ### Import Steps
